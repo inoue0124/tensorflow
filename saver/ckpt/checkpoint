@@ -1,0 +1,4 @@
+model_checkpoint_path: "my_model-1991"
+all_model_checkpoint_paths: "my_model-1971"
+all_model_checkpoint_paths: "my_model-1981"
+all_model_checkpoint_paths: "my_model-1991"
